@@ -19,7 +19,7 @@ const roboto = Roboto({
 });
 
 export const metadata = {
-  //metadataBase: new URL('https://www.aryanshinde.in'),
+  metadataBase: new URL('https://sayyam-jain-portfolio.vercel.app/'),
   title: "sayyam Jain | Portfolio",
   description: "Welcome to my portfolio, here you'll get all the creatives I've made to date!",
   keywords: "Sayyam Jain, Sayyam Jain Portfolio, Sayyam Jain Automation, Automation Developer, Web Developer, Designer Sayyam Jain, Developer Sayyam Jain, Freelancer in Navi Mumbai, Freelancer",
