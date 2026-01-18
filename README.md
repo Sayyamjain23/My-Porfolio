@@ -1,6 +1,6 @@
 ## Hey, I'm Sayyam Jain 👋
 
-I’m a final-year Computer Engineering undergrad at DJ Sanghvi College of Engineering. I build modern web experiences that blend performance, aesthetics, and motion. I love shipping products, automating workflows, and designing interfaces that feel alive. When I’m not coding, you’ll find me on a football field or sketching ideas to turn into real projects.
+I’m a final-year Computer Engineering undergrad at DJ Sanghvi College of Engineering. I build modern web experiences that blend performance, aesthetics, and motion. I love shipping products, automating workflows, and designing interfaces that feel alive. When I’m not coding, you’ll find me in gym or sketching ideas to turn into real projects.
 
 
 - Email: [sayyamjain535@gmail.com](mailto:sayyamjain535@gmail.com)
