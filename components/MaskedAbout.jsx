@@ -123,7 +123,7 @@ export default function MaskedAbout() {
             >
               <p ref={paragraph1} className="w-full text-lg md:text-xl lg:text-2xl font-roboto">
                 I&quot;m a <span className="font-orisis">final-year</span> Computer Engineering student at <span className="font-orisis">DJ Sanghvi College of Engineering</span>, specializing in web
-                development with technologies like React.js, Next.js, GraphQL, and
+                development with technologies like React.js, Next.js, Node.js, and
                 more.
               </p>
               <p ref={paragraph2} className="w-full text-lg md:text-xl lg:text-2xl font-roboto">
